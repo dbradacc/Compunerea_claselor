@@ -1,0 +1,58 @@
+# depslib dependency file v1.0
+1680989404 source:c:\users\cataf\onedrive\desktop\test\pereche.cpp
+	"Pereche.h"
+
+1680990079 c:\users\cataf\onedrive\desktop\test\pereche.h
+	<iostream>
+
+1680989404 source:c:\users\cataf\onedrive\desktop\test\rational.cpp
+	"Rational.h"
+	<algorithm>
+
+1680990079 c:\users\cataf\onedrive\desktop\test\rational.h
+	<iostream>
+	"Pereche.h"
+
+1680989553 source:c:\users\cataf\onedrive\desktop\test\main.cpp
+	<iostream>
+	"Pereche.h"
+	"Rational.h"
+
+1680990832 source:c:\users\cataf\onedrive\desktop\iesc\anul i\semestrul ii\poo\tema i\tema i\pereche.cpp
+	"Pereche.h"
+
+1680990761 c:\users\cataf\onedrive\desktop\iesc\anul i\semestrul ii\poo\tema i\tema i\pereche.h
+	<iostream>
+
+1680990702 source:c:\users\cataf\onedrive\desktop\iesc\anul i\semestrul ii\poo\tema i\tema i\rational.cpp
+	"Rational.h"
+	<algorithm>
+
+1680990800 c:\users\cataf\onedrive\desktop\iesc\anul i\semestrul ii\poo\tema i\tema i\rational.h
+	<iostream>
+	"Pereche.h"
+
+1680990561 source:c:\users\cataf\onedrive\desktop\iesc\anul i\semestrul ii\poo\tema i\tema i\main.cpp
+	<iostream>
+	"Pereche.h"
+	"Rational.h"
+
+1680990562 source:c:\users\cataf\onedrive\desktop\tema i\tema i\main.cpp
+	<iostream>
+	"Pereche.h"
+	"Rational.h"
+
+1680990762 c:\users\cataf\onedrive\desktop\tema i\tema i\pereche.h
+	<iostream>
+
+1680990802 c:\users\cataf\onedrive\desktop\tema i\tema i\rational.h
+	<iostream>
+	"Pereche.h"
+
+1680990834 source:c:\users\cataf\onedrive\desktop\tema i\tema i\pereche.cpp
+	"Pereche.h"
+
+1680990704 source:c:\users\cataf\onedrive\desktop\tema i\tema i\rational.cpp
+	"Rational.h"
+	<algorithm>
+
